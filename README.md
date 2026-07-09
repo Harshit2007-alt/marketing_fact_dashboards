@@ -79,3 +79,11 @@ Mobile devices had higher conversions compared to desktop.
 
 CTR exceeded target by 275%, showing strong ad engagement.
 
+## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="Executive%20Overview.png" width="20%">
+  <img src="Interactive%20Analysis.png" width="20%">
+  <img src="customers%20insights.png" width="20%">
+  <img src="marketing%20performance.png" width="20%">
+</p>
